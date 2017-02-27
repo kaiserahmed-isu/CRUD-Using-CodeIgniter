@@ -1,1 +1,1 @@
-#  CRUD implimentaion using Codeigniter #
+#  CRUD implementation using Codeigniter #

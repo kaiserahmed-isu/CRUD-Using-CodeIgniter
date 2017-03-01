@@ -25,6 +25,7 @@ defined('BASEPATH') OR exit('No direct script access allowed');
 */
 //$config['base_url'] = '';
 $config['base_url'] = 'http://localhost/assignment3ci';
+//$config['base_url'] = 'http://mahme12.it354.com/assignment3/projects_ci3';
 
 
 

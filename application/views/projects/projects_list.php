@@ -83,6 +83,7 @@
                   			<td><?php echo $projects->name ?></td>
                   			<td><?php echo $projects->description ?></td>
                   			<td style="text-align:center" width="200px">
+                          <a class="btn btn-warning" href="<?php echo site_url('projects/read/'.$projects->id); ?>"><em class="fa fa-hand-o-up"></em></a>
                           <a class="btn btn-success" href="<?php echo site_url('projects/update/'.$projects->id); ?>"><em class="fa fa-pencil"></em></a>
                           <a class="btn btn-danger" href="<?php echo site_url('projects/delete/'.$projects->id); ?>" onclick="javasciprt: return confirm('Are you sure to delete this project?')"><em class="fa fa-trash"></em></a>
                   			</td>

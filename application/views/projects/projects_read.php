@@ -51,7 +51,7 @@
             <table class="table table-bordered">
                 <tr><td>Name</td><td><?php echo $name; ?></td></tr>
                 <tr><td>Description</td><td><?php echo $description; ?></td></tr>
-                <tr><td></td><td><a href="<?php echo site_url('projects') ?>" class="btn btn-warning">Cancel</a></td></tr>
+                <tr><td></td><td><a href="<?php echo site_url('projects') ?>" class="btn btn-warning">Go back</a></td></tr>
             </table>
           </div>
         </div>
@@ -63,7 +63,7 @@
           </div>
         </div>
 
-        
+
       </div>
 
 
